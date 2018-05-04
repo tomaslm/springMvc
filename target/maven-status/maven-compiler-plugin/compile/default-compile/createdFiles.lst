@@ -1,0 +1,3 @@
+com/tomas/store/conf/ServletSpringMvc.class
+com/tomas/store/conf/AppWebConfiguration.class
+com/tomas/store/controllers/HomeController.class
